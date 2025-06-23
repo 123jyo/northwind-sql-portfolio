@@ -16,7 +16,7 @@ This portfolio demonstrates a wide range of SQL skills using the classic Northwi
 You can run these queries using any SQL engine that supports the Northwind database schema (SQLite, MySQL, etc.).
 
 ## Author
-[Your Name Here]
+[Prabhjot Kaur]
 
 ---
 
